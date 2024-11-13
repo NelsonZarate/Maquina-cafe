@@ -1,0 +1,10 @@
+# programa.pseudoscript
+
+modelo Programa:
+    
+    funcao start():
+        
+    se(reservatório_agua = cheio):
+        proxima_etapa
+    senao:
+        imprime("Insire água até o nível indicado")
