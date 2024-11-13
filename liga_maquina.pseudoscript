@@ -1,0 +1,11 @@
+modelo programa:
+    
+    funcao turnON():
+    #Ligar maquina de cafe
+        press turn on button on the left side of the machine turn on
+        imprime("machine has turned on.")
+        
+turnON()
+
+User presses "Turn on" button 
+Coffee machine starts
