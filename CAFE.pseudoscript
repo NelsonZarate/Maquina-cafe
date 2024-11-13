@@ -1,0 +1,18 @@
+#maquina de cafe - Aquecimento 
+
+modelo aquecimento:
+
+funcao aquece():
+    imprime ("A maquina esta a aquecer")
+
+
+
+
+#Após ligar a maquina, aguardar pela finalização do processo de aquecimento
+
+#Aparecer "Aguarde"
+
+#Quando pronto luz "verde" ilumina
+
+importar src/programa como MeuPrograma1
+importar src/programa como MeuProgram2
