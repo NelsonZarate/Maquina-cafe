@@ -1,0 +1,11 @@
+#Ver se tem grao, se nao pedir o grao 
+
+modelo grao_check
+
+funcao start():
+
+enquanto filtro_grao = verdadeiro
+    imprime("Insira grão na máquina")
+senao
+    triturar_grao
+    proxima_etapa
