@@ -1,0 +1,15 @@
+importar src/programa como START.pseudocript
+
+/*
+SELECIONAR O TIPO DE PREPARO
+*/
+
+app = START.pseudocript.Programa()
+app.start()
+
+Cafes = [Expresso]
+
+funcao maquina(Cafes)
+
+maquina(Cafes)
+
