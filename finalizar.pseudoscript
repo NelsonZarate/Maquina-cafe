@@ -1,0 +1,8 @@
+funcao som(processo)
+    quando o processo do expresso acabar reproduzir som "piiiiiiip"
+    
+
+som(processo))
+        
+funcao desliga()
+    quando o botao de desligar for apertado entao a maquina desliga
